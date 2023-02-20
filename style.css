@@ -33,7 +33,7 @@ margin:2px 5px 5px; text-decoration:none; color:#000; background:#ffd200;}
 
 
 /*********** Start Slider*********/
-.slider{ width:1300px; float:left; background:url(..slider.jpg); height:560px;}
+.slider{ width:1300px; float:left; background:url(slider.jpg); height:560px;}
 .slider-left{ width:700px; float:left;}
 .slider-left-h2{ color:#FFF; font-size:42px; padding:150px 50px 10px;}
 .slider-left-p{ color:#FFF; line-height:26px; font-size:15px; padding:10px 50px;}
